@@ -1,4 +1,4 @@
-<h1 align="center">LeetCode算法高效训练指南</h1>
+<h1 align="center">LeetCode高效训练指南</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/%3E-awesome-red.svg"> 
@@ -76,7 +76,7 @@ Feel free to get our [Pull Request template/模版](https://github.com/apachecn/
 
 GPL-3.0 © [ApacheCN](https://github.com/apachecn)
 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远！**
 
 
 ## Appendix：LeetCode Solution List（Python）

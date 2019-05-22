@@ -1,4 +1,4 @@
-<h1 align="center">LeetCode算法高效训练指南</h1>
+<h1 align="center">LeetCode高效训练指南</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/%3E-awesome-red.svg"> 
@@ -76,7 +76,7 @@ Feel free to get our [Pull Request template/模版](https://github.com/apachecn/
 
 GPL-3.0 © [ApacheCN](https://github.com/apachecn)
 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远！**
 
 
 ## Appendix：LeetCode Solution List（Python）
@@ -742,6 +742,7 @@ GPL-3.0 © [ApacheCN](https://github.com/apachecn)
 - [0998._Maximum_Binary_Tree_II](./docs/Leetcode_Solutions/Python/0998._Maximum_Binary_Tree_II.md)
 - [0999._Available_Captures_for_Rook](./docs/Leetcode_Solutions/Python/0999._Available_Captures_for_Rook.md)
 - [1001._Grid_Illumination](./docs/Leetcode_Solutions/Python/1001._Grid_Illumination.md)
+- [1004._Max_Consecutive_Ones_III](./docs/Leetcode_Solutions/Python/1004._Max_Consecutive_Ones_III.md)
 - [1005._Maximize_Sum_Of_Array_After_K_Negations](./docs/Leetcode_Solutions/Python/1005._Maximize_Sum_Of_Array_After_K_Negations.md)
 - [1006._Clumsy_Factorial](./docs/Leetcode_Solutions/Python/1006._Clumsy_Factorial.md)
 - [1007._Minimum_Domino_Rotations_For_Equal_Row](./docs/Leetcode_Solutions/Python/1007._Minimum_Domino_Rotations_For_Equal_Row.md)
@@ -750,4 +751,3 @@ GPL-3.0 © [ApacheCN](https://github.com/apachecn)
 - [1010._Pairs_of_Songs_With_Total_Durations_Divisible_by_60](./docs/Leetcode_Solutions/Python/1010._Pairs_of_Songs_With_Total_Durations_Divisible_by_60.md)
 - [1011._Capacity_To_Ship_Packages_Within_D_Days](./docs/Leetcode_Solutions/Python/1011._Capacity_To_Ship_Packages_Within_D_Days.md)
 - [1012._Numbers_With_1_Repeated_Digit](./docs/Leetcode_Solutions/Python/1012._Numbers_With_1_Repeated_Digit.md)
-- [README](./docs/Leetcode_Solutions/Python/README.md)
