@@ -2,6 +2,7 @@
 # _*_ coding:utf-8 _*_
 import os
 
+
 if __name__ == '__main__':
     readme_template = 'README_TEMPLATE.md'
     readme_file = 'README.md'
